@@ -10,68 +10,60 @@
       <link>https://roboteamtud.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roboteamtud.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roboteamtud.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About our team</title>
-      <link>https://roboteamtud.github.io/about/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Visit to Roboteam Twente</title>
+      <link>https://roboteamtud.github.io/blog/visit-twente/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://roboteamtud.github.io/about/team/</guid>
-      <description>Describe the team</description>
+      <guid>https://roboteamtud.github.io/blog/visit-twente/</guid>
+      <description>This Sunday, we travelled to Enschede to visit another RoboCup team, RoboTeam Twente</description>
     </item>
     
     <item>
-      <title>About Robocup</title>
-      <link>https://roboteamtud.github.io/about/robocup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/robocup/</guid>
-      <description>Describe RoboCup</description>
-    </item>
-    
-    <item>
-      <title>Our sponsors</title>
-      <link>https://roboteamtud.github.io/about/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/sponsors/</guid>
-      <description>List our sponsors</description>
-    </item>
-    
-    <item>
-      <title>Our vision</title>
-      <link>https://roboteamtud.github.io/about/vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/vision/</guid>
-      <description>Describe our vision</description>
-    </item>
-    
-    <item>
-      <title>Our members</title>
-      <link>https://roboteamtud.github.io/about/team-members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/team-members/</guid>
-      <description>A few team members</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>https://roboteamtud.github.io/about/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/gallery/</guid>
-      <description>Some pretty images</description>
-    </item>
-    
-    <item>
-      <title>Lightning7 team created</title>
+      <title>Creation of the [Insert name here] RoboCup team</title>
       <link>https://roboteamtud.github.io/blog/team-creation/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://roboteamtud.github.io/blog/team-creation/</guid>
-      <description>Blog post content</description>
+      <description>It started at the Robotics Student Association, when we realized that, somehow, TU Delft did not have a RoboCup team. We saw this competition as a great opportunity for research and innovation in the field of robotics, and it also seemed like a lot of fun !
+This project started to take shape at the start of the academic year, with 5 new RSA members joining the team.
+We still have a long way to go, but we already have a goal : to be qualified for the RoboCup championship in Eindhoven in 2024.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://roboteamtud.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roboteamtud.github.io/about/</guid>
+      <description>About our team The insert name here team was formed in September 2022, as a project from the Robotics Student Association in Delft. We currently have 8 members, meeting regularly and working on all aspects of the project, including management, software, hardware and electronics. We are a multi-cultural and multi-disciplinary team, with many dutch and international students in Robotics, Computer Science, Nanobiology, and more.
+We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are working hard to get the robots ready !</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://roboteamtud.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roboteamtud.github.io/contact/</guid>
+      <description>lightning7@rsadelft.nl</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://roboteamtud.github.io/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://roboteamtud.github.io/members/</guid>
+      <description>Thomas Management (Lead) Hardware (Lead) Add a description
+Steven Software (Lead) Add a description
+Balint Software Add a description
+Renyi Software Add a description
+Nielsen Software Add a description
+Thijs Hardware Add a description
+Alexander Hardware I&amp;rsquo;ve come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I gained from participating in the First Tech Challenge as a high-school student.
+Tim Management Add a description</description>
     </item>
     
     

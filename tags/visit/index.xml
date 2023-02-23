@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>visit on Lightning7</title>
+    <link>https://roboteamtud.github.io/tags/visit/</link>
+    <description>Recent content in visit on Lightning7</description>
+    <image>
+      <title>Lightning7</title>
+      <url>https://roboteamtud.github.io/papermod-cover.png</url>
+      <link>https://roboteamtud.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roboteamtud.github.io/tags/visit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visit to Roboteam Twente</title>
+      <link>https://roboteamtud.github.io/blog/visit-twente/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://roboteamtud.github.io/blog/visit-twente/</guid>
+      <description>This Sunday, we travelled to Enschede to visit another RoboCup team, RoboTeam Twente</description>
+    </item>
+    
+  </channel>
+</rss>

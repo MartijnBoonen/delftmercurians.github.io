@@ -12,48 +12,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://roboteamtud.github.io/tags/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About our team</title>
-      <link>https://roboteamtud.github.io/about/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/team/</guid>
-      <description>Describe the team</description>
-    </item>
-    
-    <item>
-      <title>Our sponsors</title>
-      <link>https://roboteamtud.github.io/about/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/sponsors/</guid>
-      <description>List our sponsors</description>
-    </item>
-    
-    <item>
-      <title>Our vision</title>
-      <link>https://roboteamtud.github.io/about/vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/vision/</guid>
-      <description>Describe our vision</description>
-    </item>
-    
-    <item>
-      <title>Our members</title>
-      <link>https://roboteamtud.github.io/about/team-members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://roboteamtud.github.io/about/team-members/</guid>
-      <description>A few team members</description>
-    </item>
-    
-    <item>
-      <title>Lightning7 team created</title>
+      <title>Creation of the [Insert name here] RoboCup team</title>
       <link>https://roboteamtud.github.io/blog/team-creation/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://roboteamtud.github.io/blog/team-creation/</guid>
-      <description>Blog post content</description>
+      <description>It started at the Robotics Student Association, when we realized that, somehow, TU Delft did not have a RoboCup team. We saw this competition as a great opportunity for research and innovation in the field of robotics, and it also seemed like a lot of fun !
+This project started to take shape at the start of the academic year, with 5 new RSA members joining the team.
+We still have a long way to go, but we already have a goal : to be qualified for the RoboCup championship in Eindhoven in 2024.</description>
     </item>
     
   </channel>
