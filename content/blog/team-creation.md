@@ -1,6 +1,6 @@
 ---
 author: "Alexander"
-title: "Lightning7 team created"
+title: "Creation of [Insert name here] team"
 date: "2022-01-01"
 tags: ["team"]
 ShowToc: false
