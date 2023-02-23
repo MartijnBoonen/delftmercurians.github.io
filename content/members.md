@@ -33,8 +33,7 @@ Add a description
 ## Renyi
 
 <div class="chip software">Software</div>
-
-Add a description
+trying to write working code.| ᐕ)⁾⁾
 
 <br>
 
