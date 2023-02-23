@@ -1,9 +1,14 @@
 ---
 author: "Alexander"
-title: "Creation of [Insert name here] team"
+title: "Creation of the [Insert name here] RoboCup team"
+summary: ""
 date: "2022-01-01"
 tags: ["team"]
 ShowToc: false
 ---
 
-Blog post content
+It started at the Robotics Student Association, when we realized that, somehow, TU Delft did not have a RoboCup team. We saw this competition as a great opportunity for research and innovation in the field of robotics, and it also seemed like a lot of fun !
+
+This project started to take shape at the start of the academic year, with 5 new RSA members joining the team.
+
+We still have a long way to go, but we already have a goal : to be qualified for the RoboCup championship in Eindhoven in 2024.
