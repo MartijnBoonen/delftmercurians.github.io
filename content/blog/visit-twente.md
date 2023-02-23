@@ -1,8 +1,8 @@
 ---
 author: "Alexander"
-title: "Visit to Roboteam Twente"
+title: "Visit to RoboTeam Twente"
 summary: "This Sunday, we travelled to Enschede to visit another RoboCup team, RoboTeam Twente"
-date: "2022-02-12"
+date: "2023-02-12"
 tags: ["visit", "roboteam twente"]
 ShowToc: false
 ---

@@ -12,11 +12,15 @@ ShowRssButtonInSectionTermList: false
 
 Add a description
 
+<br>
+
 ## Steven
 
 <div class="chip software">Software (Lead)</div>
 
 Add a description
+
+<br>
 
 ## Balint
 
@@ -24,11 +28,15 @@ Add a description
 
 Add a description
 
+<br>
+
 ## Renyi
 
 <div class="chip software">Software</div>
 
 Add a description
+
+<br>
 
 ## Nielsen
 
@@ -36,11 +44,15 @@ Add a description
 
 Add a description
 
+<br>
+
 ## Thijs
 
 <div class="chip hardware">Hardware</div>
 
 Add a description
+
+<br>
 
 ## Alexander
 
@@ -48,11 +60,15 @@ Add a description
 
 I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I gained from participating in the First Tech Challenge as a high-school student.
 
+<br>
+
 ## Tim
 
 <div class="chip management">Management</div>
 
 Add a description
+
+<br>
 
 ## Zvono
 

@@ -2,7 +2,7 @@
 author: "Alexander"
 title: "Creation of the [Insert name here] RoboCup team"
 summary: ""
-date: "2022-01-01"
+date: "2022-09-30"
 tags: ["team"]
 ShowToc: false
 ---
