@@ -56,6 +56,7 @@ params:
     ShowReadingTime: false
     # disableSpecial1stPost: true
     displayFullLangName: true
+    disableSpecial1stPost: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
@@ -66,7 +67,7 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: true
+        enabled: false
         title: Lightning7
         imageUrl: "images/logo.jpg"
         imageTitle: Lightning7 logo

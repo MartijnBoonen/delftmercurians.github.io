@@ -74,7 +74,7 @@ body:not(.dark) #sun {
 .lang-switch ul,
 .logo-switches {
     display: inline-flex;
-    margin: auto 4px;
+    margin: auto 20px;
 }
 
 .lang-switch {

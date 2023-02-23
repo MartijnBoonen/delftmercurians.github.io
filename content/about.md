@@ -47,7 +47,7 @@ We are competing in the [Small Size League](https://ssl.robocup.org/), in which 
 > All objects on the field are tracked by a standardized vision system that processes the data provided by multiple cameras that are attached to a camera bar located about 4 m above the playing surface.
 > 
 > Building a successful team requires clever design, implementation and integration of many hardware and software sub-components into a robustly functioning whole making Small Size robot soccer a very interesting and challenging domain for research and education.
->
+> 
 > \- *From the [Robocup website](https://ssl.robocup.org/about/)*
 
 ![Photo of a Robocup SSL match](/images/robocup_match.jpg)
@@ -55,8 +55,6 @@ We are competing in the [Small Size League](https://ssl.robocup.org/), in which 
 <br>
 
 ## Gallery
-
-
 
 <style>
 .sponsor-image {
