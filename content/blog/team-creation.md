@@ -1,6 +1,6 @@
 ---
 author: "Alexander"
-title: "Creation of the [Insert name here] RoboCup team"
+title: "Creation of the Delft Mercurians RoboCup team"
 summary: ""
 date: "2022-09-30"
 tags: ["team"]

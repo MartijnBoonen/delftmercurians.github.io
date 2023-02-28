@@ -82,7 +82,7 @@ Add a description
   font-size: 15px;
   line-height: 30px;
   border-radius: 15px;
-  margin-bottom: 15px;
+  margin: 0 5px 15px 0;
 }
 
 .management {

@@ -8,7 +8,10 @@ ShowRssButtonInSectionTermList: false
 
 ## About our team
 
-The `insert name here` team was formed in September 2022, as a project from the Robotics Student Association in Delft. We currently have [8 members](/members), meeting regularly and working on all aspects of the project, including management, software, hardware and electronics. We are a multi-cultural and multi-disciplinary team, with many dutch and international students in Robotics, Computer Science, Nanobiology, and more.
+The Delft Mercurians team was formed in September 2022, as a project from the Robotics Student Association in Delft. 
+We currently have [8 members](/members), meeting regularly and working on all aspects of the project, including 
+management, software, hardware and electronics. We are a multicultural and multidisciplinary team, with many 
+Dutch and international students in Robotics, Computer Science, Nano-biology, and more.
 
 We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are working hard to get the robots ready !
 
@@ -24,13 +27,21 @@ We aim to [?]
 
 ## Sponsors
 
-[<img src="/images/nanotec_logo.svg" class="sponsor-image" />](https://en.nanotec.com)
+[<img src="/images/nanotec_logo.svg" alt="Nanotec" class="sponsor-image" />](https://en.nanotec.com)
+
+<br>
+
+## Partners
+
+[<img src="/images/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image" />](https://rsadelft.nl)
 
 <br>
 
 ## RoboCup
 
-[RoboCup](https://robocup.org) is an international robotics competition, whose main focus is an annual competition where . It aims to promote science and engineering research, with the ultimate goal being to develop robots that can beat human players :
+[RoboCup](https://robocup.org) is an international robotics competition, whose main focus is an annual robot football 
+competition. It aims to promote science and engineering research, with the ultimate goal being to develop robots that 
+can beat human players :
 
 > By the middle of the 21st century, a team of fully autonomous humanoid 
 > robot soccer players shall win a soccer game, complying with the 
@@ -38,15 +49,22 @@ We aim to [?]
 
 <br>
 
-We are competing in the [Small Size League](https://ssl.robocup.org/), in which teams of 6 robots compete against each other in 10-minute matches
+We are competing in the [Small Size League](https://ssl.robocup.org/), in which teams of 6 robots compete against each
+other in 10-minute matches.
 
-> RoboCup Small Size League robot soccer focuses on the problem of intelligent multi-agent cooperation and control in a highly dynamic environment with a hybrid centralized/distributed system. 
+> RoboCup Small Size League robot soccer focuses on the problem of intelligent multi-agent cooperation and control in a 
+> highly dynamic environment with a hybrid centralized/distributed system. 
 > 
-> Each robot must conform to the dimensions as specified in the F180 rules: the robot must fit within an 180 mm diameter circle and must be no higher than 15 cm. The robots play soccer with an orange golf ball on a green carpeted field that is about 12 m long by 9 m wide. 
+> Each robot must conform to the dimensions as specified in the F180 rules: the robot must fit within an 180 mm 
+> diameter circle and must be no higher than 15 cm. The robots play soccer with an orange golf ball on a green 
+> carpeted field that is about 12 m long by 9 m wide. 
 > 
-> All objects on the field are tracked by a standardized vision system that processes the data provided by multiple cameras that are attached to a camera bar located about 4 m above the playing surface.
+> All objects on the field are tracked by a standardized vision system that processes the data provided by 
+> multiple cameras that are attached to a camera bar located about 4 m above the playing surface.
 > 
-> Building a successful team requires clever design, implementation and integration of many hardware and software sub-components into a robustly functioning whole making Small Size robot soccer a very interesting and challenging domain for research and education.
+> Building a successful team requires clever design, implementation and integration of many hardware and software 
+> sub-components into a robustly functioning whole making Small Size robot soccer a very interesting and challenging
+> domain for research and education.
 > 
 > \- *From the [Robocup website](https://ssl.robocup.org/about/)*
 
