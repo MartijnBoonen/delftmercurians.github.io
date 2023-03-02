@@ -42,6 +42,9 @@ layout: "single"
   margin-right: auto !important;
   width: 500px;
 }
+body.dark .logo-home {
+  content: url("/images/logo_dark.svg");
+}
 .title-home {
   text-align: center;
   font-size: 28px !important;

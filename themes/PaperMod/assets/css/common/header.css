@@ -35,6 +35,9 @@
     border-radius: 6px;
     margin-inline-end: 8px;
 }
+body.dark .logo a img, body.dark .logo a svg {
+    content: url("/images/logo_text_dark.svg")
+}
 
 button#theme-toggle {
     font-size: 26px;
