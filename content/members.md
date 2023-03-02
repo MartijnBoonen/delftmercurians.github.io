@@ -10,7 +10,7 @@ ShowRssButtonInSectionTermList: false
 
 <div class="chip management">Management (Lead)</div> <div class="chip hardware">Hardware (Lead)</div>
 
-Add a description
+-
 
 <br>
 
@@ -18,7 +18,7 @@ Add a description
 
 <div class="chip software">Software (Lead)</div>
 
-Add a description
+-
 
 <br>
 
@@ -26,7 +26,7 @@ Add a description
 
 <div class="chip software">Software</div>
 
-Add a description
+-
 
 <br>
 
@@ -34,7 +34,7 @@ Add a description
 
 <div class="chip software">Software</div>
 
-Add a description
+-
 
 <br>
 
@@ -42,7 +42,7 @@ Add a description
 
 <div class="chip software">Software</div>
 
-Add a description
+-
 
 <br>
 
@@ -50,7 +50,7 @@ Add a description
 
 <div class="chip hardware">Hardware</div>
 
-Add a description
+-
 
 <br>
 
@@ -66,13 +66,13 @@ I've come from France to study Computer Science in Delft, joining the team becau
 
 <div class="chip management">Management</div>
 
-Add a description
+-
 
 <br>
 
 ## Zvono
 
-Add a description
+-
 
 <style>
 .chip {

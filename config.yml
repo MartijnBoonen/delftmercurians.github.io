@@ -46,8 +46,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Lightning7"
-    author: "Lightning7 team"
+    description: "Delft Mercurians"
+    # author: "Delft Mercurians team"
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -90,21 +90,21 @@ params:
     #
     #         - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
-    socialIcons:
-        - name: github
-          url: "https://github.com/roboteamtud"
-        - name: email
-          url: "mailto:lightning7@rsadelft.nl"
+    # socialIcons:
+    #     - name: github
+    #       url: "https://github.com/roboteamtud"
+    #     - name: email
+    #       url: "mailto:lightning7@rsadelft.nl"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
     #     Text: "Suggest Changes" # edit text
     #     appendFilePath: true # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    label:
+        alt: Delft Mercurians
+        icon: /images/logo_text.svg
+        iconHeight: 60
 
     # analytics:
     #     google:
