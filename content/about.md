@@ -35,6 +35,10 @@ We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are w
 
 [<img src="/images/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image" />](https://rsadelft.nl)
 
+<br> 
+
+[<img src="/images/robohouse_logo.png" alt="Robohouse" class="sponsor-image" />](https://robohouse.nl)
+
 <br>
 
 ## RoboCup
@@ -79,6 +83,6 @@ other in 10-minute matches.
   display: block; 
   margin-left: auto !important; 
   margin-right: auto !important;
-  width: 50%;
+  height: 60px;
 }
 </style>
