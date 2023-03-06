@@ -6,7 +6,7 @@ ShowRssButtonInSectionTermList: false
 layout: "single"
 ---
 
-<img src="/images/logo.svg" class="logo-home" />
+<img src="/images/logo.svg" class="logo-home" alt="Delft Mercurians Logo" />
 <p class="summary-home">We're a RoboCup team based in Delft, created in 2022</p>
 <div class="buttons">
   <a class="button" href="about/" rel="noopener" title="About">
