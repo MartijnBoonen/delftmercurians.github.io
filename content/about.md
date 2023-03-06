@@ -21,8 +21,6 @@ We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are w
 
 ## Vision
 
-
-
 <br>
 
 ## Sponsors

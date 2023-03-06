@@ -58,7 +58,8 @@ ShowRssButtonInSectionTermList: false
 
 <div class="chip hardware">Hardware</div>
 
-I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I gained from participating in the First Tech Challenge as a high-school student.
+I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I 
+gained from participating in the First Tech Challenge as a high-school student.
 
 <br>
 
@@ -66,7 +67,9 @@ I've come from France to study Computer Science in Delft, joining the team becau
 
 <div class="chip management">Management</div>
 
--
+A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in 
+Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing 
+people along the way.
 
 <br>
 
