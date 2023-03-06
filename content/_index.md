@@ -30,7 +30,7 @@ layout: "single"
     <a href="https://en.nanotec.com" class="sponsorlink-home">
       <img src="/images/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
     </a>
-    <a href="https://en.nanotec.com" class="sponsorlink-home">
+    <a href="https://robohouse.nl" class="sponsorlink-home">
       <img src="/images/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
     </a>
 </div>
