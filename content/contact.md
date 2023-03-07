@@ -6,4 +6,5 @@ hideMeta: true
 ShowRssButtonInSectionTermList: false
 ---
 
-[lightning7@rsadelft.nl](mailto:lightning7@rsadelft.nl)
+Feel free to send an email to [contact@delftmercurians.nl](mailto:contact@delftmercurians.nl) for any questions about
+the team, partnership enquiries, or other matters.

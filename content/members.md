@@ -10,7 +10,7 @@ ShowRssButtonInSectionTermList: false
 
 <div class="chip management">Management (Lead)</div> <div class="chip hardware">Hardware (Lead)</div>
 
-Add a description
+-
 
 <br>
 
@@ -18,7 +18,7 @@ Add a description
 
 <div class="chip software">Software (Lead)</div>
 
-Add a description
+-
 
 <br>
 
@@ -26,7 +26,7 @@ Add a description
 
 <div class="chip software">Software</div>
 
-Add a description
+-
 
 <br>
 
@@ -41,7 +41,7 @@ trying to write working code.| ᐕ)⁾⁾
 
 <div class="chip software">Software</div>
 
-Add a description
+-
 
 <br>
 
@@ -49,7 +49,7 @@ Add a description
 
 <div class="chip hardware">Hardware</div>
 
-Add a description
+-
 
 <br>
 
@@ -57,7 +57,8 @@ Add a description
 
 <div class="chip hardware">Hardware</div>
 
-I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I gained from participating in the First Tech Challenge as a high-school student.
+I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I 
+gained from participating in the First Tech Challenge as a high-school student.
 
 <br>
 
@@ -65,13 +66,15 @@ I've come from France to study Computer Science in Delft, joining the team becau
 
 <div class="chip management">Management</div>
 
-Add a description
+A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in 
+Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing 
+people along the way.
 
 <br>
 
 ## Zvono
 
-Add a description
+-
 
 <style>
 .chip {
@@ -81,7 +84,7 @@ Add a description
   font-size: 15px;
   line-height: 30px;
   border-radius: 15px;
-  margin-bottom: 15px;
+  margin: 0 5px 15px 0;
 }
 
 .management {

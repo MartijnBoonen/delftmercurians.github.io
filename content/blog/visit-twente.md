@@ -10,7 +10,7 @@ ShowToc: false
 This Sunday, we travelled to Enschede to visit another RoboCup team, [RoboTeam Twente](https://roboteamtwente.nl/).
 
 
-They are a team with 7 years of experience, and were very willing to help us start our team.
+They are a team with 7 years of experience, and were very willing to help us start our team.
 We talked about many different aspects of the competition, from managing the team to building the robots and setting up the software stack.
 After getting to know each other, they presented their team, history and robots. We spent the rest of the afternoon discussing a lot of subjects, discovering their amazing workshop and even controlling one of their robots.
 
