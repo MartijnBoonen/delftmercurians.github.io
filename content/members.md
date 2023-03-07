@@ -33,7 +33,9 @@ ShowRssButtonInSectionTermList: false
 ## Renyi
 
 <div class="chip software">Software</div>
-trying to write working code.| ᐕ)⁾⁾
+
+student at TU Delft, studying Computer Science| ᐕ)⁾⁾  
+I hope my code could make some sense.（┬＿┬）
 
 <br>
 
