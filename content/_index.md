@@ -7,7 +7,7 @@ layout: "single"
 ---
 
 <img src="/images/logo.svg" class="logo-home" alt="Delft Mercurians Logo" />
-<p class="summary-home">We are a RoboCup team based in Delft, created in 2022</p>
+<p class="summary-home">We are a RoboCup team based in Delft, founded in 2022</p>
 <div class="buttons">
   <a class="button" href="about/" rel="noopener" title="About">
     <span class="button-inner">
