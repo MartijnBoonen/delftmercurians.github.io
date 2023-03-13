@@ -8,7 +8,7 @@ ShowRssButtonInSectionTermList: false
 
 ## Thomas
 
-<div class="chip management">Management (Lead)</div> <div class="chip hardware">Hardware (Lead)</div>
+<div class="chip management">Project manager</div> <div class="chip hardware">Technical manager</div>
 
 -
 
@@ -16,7 +16,7 @@ ShowRssButtonInSectionTermList: false
 
 ## Steven
 
-<div class="chip software">Software (Lead)</div>
+<div class="chip software">Software</div> <div class="chip management">Marketing</div>
 
 -
 
@@ -24,7 +24,7 @@ ShowRssButtonInSectionTermList: false
 
 ## Balint
 
-<div class="chip software">Software</div>
+<div class="chip software">Software (Lead)</div>
 
 -
 
@@ -49,7 +49,7 @@ I hope my code could make some sense.（┬＿┬）
 
 ## Thijs
 
-<div class="chip hardware">Hardware</div>
+<div class="chip hardware">Mechanical</div>
 
 -
 
@@ -57,7 +57,7 @@ I hope my code could make some sense.（┬＿┬）
 
 ## Alexander
 
-<div class="chip hardware">Hardware</div>
+<div class="chip hardware">Mechanical</div>
 
 I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I 
 gained from participating in the First Tech Challenge as a high-school student.
@@ -66,7 +66,7 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 ## Tim
 
-<div class="chip management">Management</div>
+<div class="chip management">Management</div> <div class="chip management">Marketin</div>
 
 A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in 
 Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing 
@@ -75,6 +75,8 @@ people along the way.
 <br>
 
 ## Zvono
+
+<div class="chip embectrical">Embectrical</div>
 
 -
 
@@ -108,5 +110,12 @@ people along the way.
 }
 .dark .hardware {
   background-color: #000080;
+}
+
+.embectrical {
+  background-color: #b3edff;
+}
+.embectrical .hardware {
+  background-color: #006f80;
 }
 </style>
