@@ -8,7 +8,7 @@ ShowRssButtonInSectionTermList: false
 
 ## Thomas
 
-<div class="chip hardware">Technical manager</div> <div class="chip embectrical">Embectrical</div>
+<div class="chip management">Technical manager</div> <div class="chip embectrical">Embectrical</div>
 
 -
 
@@ -16,7 +16,7 @@ ShowRssButtonInSectionTermList: false
 
 ## Tim
 
-<div class="chip management">Management</div> <div class="chip management">Marketing</div>
+<div class="chip management">Management</div> <div class="chip marketing">Marketing</div>
 
 A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in
 Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing
@@ -26,7 +26,7 @@ people along the way.
 
 ## Zhengyang (Steven)
 
-<div class="chip software">Software</div> <div class="chip management">Marketing</div>
+<div class="chip software">Software</div> <div class="chip marketing">Marketing</div>
 
 -
 
@@ -87,7 +87,14 @@ gained from participating in the First Tech Challenge as a high-school student.
   background-color: #ff9999;
 }
 .dark .management {
-  background-color: #500000;
+  background-color: #580000;
+}
+
+.marketing {
+  background-color: #ffab80;
+}
+.dark .marketing {
+  background-color: #6e3000;
 }
   
 .software {
@@ -107,7 +114,7 @@ gained from participating in the First Tech Challenge as a high-school student.
 .embectrical {
   background-color: #b3edff;
 }
-.embectrical .hardware {
+.dark .embectrical {
   background-color: #006f80;
 }
 </style>
