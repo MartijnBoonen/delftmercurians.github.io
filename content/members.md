@@ -8,13 +8,23 @@ ShowRssButtonInSectionTermList: false
 
 ## Thomas
 
-<div class="chip management">Project manager</div> <div class="chip hardware">Technical manager</div>
+<div class="chip hardware">Technical manager</div> <div class="chip embectrical">Embectrical</div>
 
 -
 
 <br>
 
-## Steven
+## Tim
+
+<div class="chip management">Management</div> <div class="chip management">Marketing</div>
+
+A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in
+Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing
+people along the way.
+
+<br>
+
+## Zhengyang (Steven)
 
 <div class="chip software">Software</div> <div class="chip management">Marketing</div>
 
@@ -39,14 +49,6 @@ I hope my code could make some sense.（┬＿┬）
 
 <br>
 
-## Nielsen
-
-<div class="chip software">Software</div>
-
--
-
-<br>
-
 ## Thijs
 
 <div class="chip hardware">Mechanical</div>
@@ -61,16 +63,6 @@ I hope my code could make some sense.（┬＿┬）
 
 I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I 
 gained from participating in the First Tech Challenge as a high-school student.
-
-<br>
-
-## Tim
-
-<div class="chip management">Management</div> <div class="chip management">Marketin</div>
-
-A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in 
-Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing 
-people along the way.
 
 <br>
 
