@@ -28,7 +28,9 @@ people along the way.
 
 <div class="chip software">Software</div> <div class="chip marketing">Marketing</div>
 
--
+A first year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare 
+time and it's a great experience so far. Having some interest in marketing I'd like to develop our brand to something 
+fun and memorable.
 
 <br>
 
