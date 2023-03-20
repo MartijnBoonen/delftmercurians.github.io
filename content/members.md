@@ -38,7 +38,7 @@ fun and memorable.
 
 <div class="chip software">Software (Lead)</div>
 
--
+Ex-computer science student from Hungary with 3 years of professional software engineering experience. I joined the team to look for new challanges, meet cool people and have fun, while also working to innovate for a better world.
 
 <br>
 
