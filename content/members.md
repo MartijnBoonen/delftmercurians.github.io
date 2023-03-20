@@ -55,7 +55,8 @@ I hope my code could make some sense.（┬＿┬）
 
 <div class="chip hardware">Mechanical</div>
 
--
+I'm a first year computer science student who is always open for a new challenge. My goal is to learn a lot 
+and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <br>
 
