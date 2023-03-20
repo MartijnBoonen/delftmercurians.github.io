@@ -10,7 +10,7 @@ ShowRssButtonInSectionTermList: false
 
 <div class="chip management">Technical manager</div> <div class="chip embectrical">Embectrical</div>
 
--
+I'm a first year Robotics Masters student at TU Delft and have been building robots for over a decade now. I enjoy learning new technical skills, as well as pushing myself to develop my leadership abilities. Ultimately, my aim is to inspire and encourage the next generation of engineers to think outside the box and pursue innovation.
 
 <br>
 
