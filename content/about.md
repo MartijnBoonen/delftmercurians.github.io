@@ -20,6 +20,7 @@ We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are w
 <br>
 
 ## Vision
+After decades of competition, all the robots in the RoboCup Small Size League have converged to similar designs, and innovation has stagnated. Without innovation, there is no progress. And without fresh ideas and change, there is no innovation. Robots have endless possibilities, yet they are chained by what’s already been done before. There need to be new challengers to bring in fresh ideas, to stir up the competition, and to inspire a new generation of robot enthusiasts. We aim to be that catalyst. Our goal is to think outside of the cylinder, to not fall into the current design trend, and create robots that are unique, fun, Mercurian.
 
 <br>
 
