@@ -23,12 +23,18 @@ layout: "single"
 
 
 <div class="pagespacer-home"></div>
+<div class="sponsor-caption">
+  <p class="sponsor-caption-text">Sponsors and partners</p>
+</div>
 <div class="sponsorcontainer-home">
-    <a href="https://rsadelft.nl" class="sponsorlink-home">
-      <img src="/images/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-home" />
-    </a>
+    <a href="https://tudelftroboticsinstitute.nl" class="sponsorlink-home">
+      <img src="/images/dri_logo.svg" alt="TUDelft Robotics Institute" class="sponsor-home dri-logo" />
+    </a>    
     <a href="https://en.nanotec.com" class="sponsorlink-home">
       <img src="/images/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
+    </a>
+    <a href="https://rsadelft.nl" class="sponsorlink-home">
+      <img src="/images/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-home" />
     </a>
     <a href="https://robohouse.nl" class="sponsorlink-home">
       <img src="/images/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
@@ -40,7 +46,7 @@ layout: "single"
   display: block; 
   margin-left: auto !important; 
   margin-right: auto !important;
-  width: 500px;
+  width: calc(min(500px, 45vh));
 }
 body.dark .logo-home {
   content: url("/images/logo_dark.svg");
@@ -58,13 +64,26 @@ body.dark .logo-home {
 }
 
 .sponsorcontainer-home {
-  margin-top: 50px;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
+  gap: 100px;
 }
 .sponsor-home {
   height: 50px;
+}
+.sponsor-caption {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  top: 100px;
+}
+.sponsor-caption-text {
+  margin: 0px !important;
+  color: #8a8a8a;
+}
+body.dark .sponsor-caption-text {
+  color: #606060;
 }
 .sponsorlink-home {
   color: transparent;
@@ -76,11 +95,19 @@ body.dark .logo-home {
 .post-footer {
   display: none;
 }
+
+body.dark .dri-logo {
+  content: url("/images/dri_logo_dark.svg");
+}
   
 body {
   background-image: url("/images/football_background.svg") !important;
 }
 body.dark {
   background-image: url("/images/football_background_dark.svg") !important;
+}
+
+.main {
+    max-width: 100% !important;
 }
 </style>

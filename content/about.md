@@ -28,6 +28,10 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 ## Sponsors
 
+[<img src="/images/dri_logo.svg" alt="TU Delft Robotics Institute" class="sponsor-image dri-logo" />](https://tudelftroboticsinstitute.nl)
+
+<br>
+
 [<img src="/images/nanotec_logo.svg" alt="Nanotec" class="sponsor-image" />](https://en.nanotec.com)
 
 <br>
@@ -39,6 +43,12 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 <br> 
 
 [<img src="/images/robohouse_logo.png" alt="Robohouse" class="sponsor-image" />](https://robohouse.nl)
+
+<br>
+
+## Collaborators
+
+[<img src="/images/twente_logo.png" alt="Roboteam Twente" class="sponsor-image" style="height: 80px" />](https://roboteamtwente.nl/)
 
 <br>
 
@@ -85,5 +95,9 @@ other in 10-minute matches.
   margin-left: auto !important; 
   margin-right: auto !important;
   height: 60px;
+}
+
+body.dark .dri-logo {
+  content: url("/images/dri_logo_dark.svg");
 }
 </style>
