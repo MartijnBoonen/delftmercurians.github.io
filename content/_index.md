@@ -67,7 +67,7 @@ body.dark .logo-home {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 100px;
+  column-gap: 100px;
 }
 .sponsor-home {
   height: 50px;
