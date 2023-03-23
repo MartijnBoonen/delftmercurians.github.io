@@ -4,6 +4,8 @@ ShowToc: false
 ShowBreadcrumbs: false
 hideMeta: true
 ShowRssButtonInSectionTermList: false
+summary: "We currently have 8 members in our team : Thomas, Tim, Zhengyang, Balint, Renyi, Thijs, Alexander and Zvono"
+keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 ---
 
 ## Thomas

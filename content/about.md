@@ -4,6 +4,8 @@ ShowToc: false
 ShowBreadcrumbs: false
 hideMeta: true
 ShowRssButtonInSectionTermList: false
+summary: "The Delft Mercurians RoboCup team was formed in September 2022, as a project from the Robotics Student Association in Delft. We aim to participate in the 2024 RoboCup competition in Eindhoven, and we are working hard to get the robots ready !"
+keywords: ["Delft Mercurians", "RoboCup", "about", "robotics", "football"]
 ---
 
 ## About our team
