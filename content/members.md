@@ -8,7 +8,7 @@ summary: "We currently have 8 members in our team : Thomas, Tim, Zhengyang, Bali
 keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 ---
 
-## Thomas
+## Thomas Hettasch
 
 <div class="chip management">Technical manager</div> <div class="chip embectrical">Embectrical</div>
 
