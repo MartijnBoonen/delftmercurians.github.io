@@ -77,6 +77,16 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 -
 
+<br>
+
+## Andrei
+
+<div class="chip embectrical">Embectrical</div>
+
+-
+
+<br>
+
 <style>
 .chip {
   display: inline-block;
