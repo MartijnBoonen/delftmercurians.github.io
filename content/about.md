@@ -28,27 +28,27 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 ## Sponsors
 
-[<img src="/images/dri_logo.svg" alt="TU Delft Robotics Institute" class="sponsor-image dri-logo" />](https://tudelftroboticsinstitute.nl)
+[<img src="/images/sponsors/dri_logo.svg" alt="TU Delft Robotics Institute" class="sponsor-image dri-logo" />](https://tudelftroboticsinstitute.nl)
 
 <br>
 
-[<img src="/images/nanotec_logo.svg" alt="Nanotec" class="sponsor-image" />](https://en.nanotec.com)
+[<img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" class="sponsor-image" />](https://en.nanotec.com)
 
 <br>
 
 ## Partners
 
-[<img src="/images/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image" />](https://rsadelft.nl)
+[<img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-image" />](https://rsadelft.nl)
 
 <br> 
 
-[<img src="/images/robohouse_logo.png" alt="Robohouse" class="sponsor-image" />](https://robohouse.nl)
+[<img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-image" />](https://robohouse.nl)
 
 <br>
 
 ## Collaborators
 
-[<img src="/images/twente_logo.png" alt="Roboteam Twente" class="sponsor-image" style="height: 80px" />](https://roboteamtwente.nl/)
+[<img src="/images/sponsors/twente_logo.png" alt="Roboteam Twente" class="sponsor-image" style="height: 80px" />](https://roboteamtwente.nl/)
 
 <br>
 
@@ -83,7 +83,7 @@ other in 10-minute matches.
 > 
 > \- *From the [Robocup website](https://ssl.robocup.org/about/)*
 
-![Photo of a Robocup SSL match](/images/robocup_match.jpg)
+![Photo of a Robocup SSL match](/images/illustrations/robocup_match.jpg)
 
 <br>
 
@@ -98,6 +98,6 @@ other in 10-minute matches.
 }
 
 body.dark .dri-logo {
-  content: url("/images/dri_logo_dark.svg");
+  content: url("/images/sponsors/dri_logo_dark.svg");
 }
 </style>

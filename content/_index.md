@@ -28,16 +28,16 @@ layout: "single"
 </div>
 <div class="sponsorcontainer-home">
     <a href="https://tudelftroboticsinstitute.nl" class="sponsorlink-home">
-      <img src="/images/dri_logo.svg" alt="TUDelft Robotics Institute" class="sponsor-home dri-logo" />
+      <img src="/images/sponsors/dri_logo.svg" alt="TUDelft Robotics Institute" class="sponsor-home dri-logo" />
     </a>    
     <a href="https://en.nanotec.com" class="sponsorlink-home">
-      <img src="/images/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
+      <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
     </a>
     <a href="https://rsadelft.nl" class="sponsorlink-home">
-      <img src="/images/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-home" />
+      <img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-home" />
     </a>
     <a href="https://robohouse.nl" class="sponsorlink-home">
-      <img src="/images/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
+      <img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
     </a>
 </div>
 
@@ -97,7 +97,7 @@ body.dark .sponsor-caption-text {
 }
 
 body.dark .dri-logo {
-  content: url("/images/dri_logo_dark.svg");
+  content: url("/images/sponsors/dri_logo_dark.svg");
 }
   
 body {
