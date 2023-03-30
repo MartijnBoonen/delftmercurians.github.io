@@ -18,7 +18,7 @@ the team, partnership enquiries, or other matters.
 
 <br>
 
-<a href="https://instagram.com/deftmercurians" class="social-link">
+<a href="https://instagram.com/delftmercurians" class="social-link">
   <img src="/images/social/instagram_icon.svg" class="social-icon">
   @delftmercurians
 </a>
