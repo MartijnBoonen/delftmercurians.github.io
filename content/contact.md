@@ -25,7 +25,7 @@ the team, partnership enquiries, or other matters.
 
 <br>
 
-<a href="https://github.com/deftmercurians" class="social-link">
+<a href="https://github.com/delftmercurians" class="social-link">
   <img src="/images/social/github_icon.svg" class="social-icon">
   github.com/delftmercurians
 </a>
