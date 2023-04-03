@@ -25,6 +25,13 @@ the team, partnership enquiries, or other matters.
 
 <br>
 
+<a href="https://www.linkedin.com/company/delft-mercurians/" class="social-link">
+  <img src="/images/social/linkedin_icon.svg" class="social-icon">
+  delft-mercurians
+</a>
+
+<br>
+
 <a href="https://github.com/delftmercurians" class="social-link">
   <img src="/images/social/github_icon.svg" class="social-icon">
   github.com/delftmercurians
