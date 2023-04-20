@@ -89,7 +89,7 @@ body.dark .sponsor-caption-text {
   color: transparent;
 }
 .pagespacer-home {
-  height: calc(100vh - 1000px);
+  height: calc(100vh - 900px);
 }
  
 .post-footer {
