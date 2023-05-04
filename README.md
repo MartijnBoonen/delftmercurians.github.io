@@ -1,3 +1,3 @@
 # RoboTeamTUD.github.io
-Lightning7 website
+Delft Mercurians website
 .
