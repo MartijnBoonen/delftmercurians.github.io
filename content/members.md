@@ -4,7 +4,7 @@ ShowToc: false
 ShowBreadcrumbs: false
 hideMeta: true
 ShowRssButtonInSectionTermList: false
-summary: "We currently have 8 members in our team : Thomas, Tim, Zhengyang, Balint, Renyi, Thijs, Alexander and Zvono"
+summary: "We currently have 10 members in our team : Thomas, Tim, Zhengyang, Balint, Renyi, Thijs, Alexander and Zvono"
 keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 ---
 
@@ -71,17 +71,25 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 <br>
 
-## Zvono
+## Roma
 
-<div class="chip embectrical">Embectrical</div>
+<div class="chip software">Software</div>
 
 -
 
 <br>
 
-## Andrei
+## Kevin
 
-<div class="chip embectrical">Embectrical</div>
+<div class="chip hardware">Hardware</div>
+
+-
+
+<br>
+
+## Vladimir
+
+<div class="chip software">Software</div>
 
 -
 
@@ -111,14 +119,14 @@ gained from participating in the First Tech Challenge as a high-school student.
 .dark .marketing {
   background-color: #6e3000;
 }
-  
+
 .software {
   background-color: #c2f0c2;
 }
 .dark .software {
   background-color: #145214;
 }
-  
+
 .hardware {
   background-color: #b3b3ff;
 }
