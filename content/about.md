@@ -85,10 +85,6 @@ other in 10-minute matches.
 
 ![Photo of a Robocup SSL match](/images/illustrations/robocup_match.jpg)
 
-<br>
-
-## Gallery
-
 <style>
 .sponsor-image {
   display: block; 

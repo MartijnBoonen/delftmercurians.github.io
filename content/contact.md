@@ -37,6 +37,11 @@ the team, partnership enquiries, or other matters.
   github.com/delftmercurians
 </a>
 
+<div class="social-link">
+  <img src="/images/social/map_icon.svg" class="social-icon">
+  RSA, Julianalaan 67, 2628BC Delft, The Netherlands 
+</div>
+
 <style>
 .social-icon {
   height: 30px;
