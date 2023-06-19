@@ -85,7 +85,10 @@ Trying hard to get into research, but failing miserably for now. Had 8 years of 
 
 <div class="chip hardware">Hardware</div>
 
--
+Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!
+
+
+
 
 <br>
 
