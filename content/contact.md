@@ -39,8 +39,10 @@ the team, partnership enquiries, or other matters.
 
 <div class="social-link">
   <img src="/images/social/map_icon.svg" class="social-icon">
-  RSA, Julianalaan 67, 2628BC Delft, The Netherlands 
+  RSA, Julianalaan 67, 2628BC Delft, The Netherlands
 </div>
+
+{{< join-callout >}}
 
 <style>
 .social-icon {
@@ -52,4 +54,5 @@ the team, partnership enquiries, or other matters.
 .social-link {
   box-shadow: none !important;
 }
+
 </style>

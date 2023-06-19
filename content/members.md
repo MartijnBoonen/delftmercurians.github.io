@@ -8,6 +8,8 @@ summary: "We currently have 10 members in our team : Thomas, Tim, Zhengyang, Bal
 keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 ---
 
+{{< join-callout >}}
+
 ## Thomas Hettasch
 
 <div class="chip management">Technical manager</div> <div class="chip embectrical">Embectrical</div>
@@ -30,8 +32,8 @@ people along the way.
 
 <div class="chip software">Software</div> <div class="chip marketing">Marketing</div>
 
-A first year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare 
-time and it's a great experience so far. Having some interest in marketing I'd like to develop our brand to something 
+A first year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare
+time and it's a great experience so far. Having some interest in marketing I'd like to develop our brand to something
 fun and memorable.
 
 <br>
@@ -57,7 +59,7 @@ I hope my code could make some sense.（┬＿┬）
 
 <div class="chip hardware">Mechanical</div>
 
-I'm a first year computer science student who is always open for a new challenge. My goal is to learn a lot 
+I'm a first year computer science student who is always open for a new challenge. My goal is to learn a lot
 and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <br>
@@ -66,7 +68,7 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <div class="chip hardware">Mechanical</div>
 
-I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I 
+I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I
 gained from participating in the First Tech Challenge as a high-school student.
 
 <br>

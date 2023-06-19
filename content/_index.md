@@ -33,6 +33,9 @@ layout: "single"
     <a href="https://en.nanotec.com" class="sponsorlink-home">
       <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
     </a>
+    <a href="https://www.st.com/" class="sponsorlink-home">
+      <img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="sponsor-home st-logo" />
+    </a>
     <a href="https://rsadelft.nl" class="sponsorlink-home">
       <img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-home" />
     </a>
@@ -43,8 +46,8 @@ layout: "single"
 
 <style>
 .logo-home {
-  display: block; 
-  margin-left: auto !important; 
+  display: block;
+  margin-left: auto !important;
   margin-right: auto !important;
   width: calc(min(500px, 45vh));
 }
@@ -91,7 +94,7 @@ body.dark .sponsor-caption-text {
 .pagespacer-home {
   height: calc(100vh - 900px);
 }
- 
+
 .post-footer {
   display: none;
 }
@@ -99,7 +102,10 @@ body.dark .sponsor-caption-text {
 body.dark .dri-logo {
   content: url("/images/sponsors/dri_logo_dark.svg");
 }
-  
+body.dark .st-logo {
+  content: url("/images/sponsors/st_logo_dark.png");
+}
+
 body {
   background-image: url("/images/football_background.svg") !important;
 }
