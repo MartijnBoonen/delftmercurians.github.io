@@ -8,10 +8,6 @@ summary: "Want to join the team ? Fill in this application form and we will cont
 keywords: ["Delft Mercurians", "RoboCup", "join", "apply"]
 ---
 
-<div id="success" class="success-notification">
-  Thanks for your application ! We will get back to you as soon as possible
-</div>
-
 Great that you are interested in joining the Delft Mercurians RoboCup team !
 
 Due to limited space within the team it is important for us to know what positions you would be interested in, so we can do our best to fit everyone in! After filling in the form, we will try to get back to you within the next two weeks.
@@ -21,6 +17,10 @@ If you have any questions, you can send an email to [contact@delftmercurians.nl]
 For more information on the RoboCup SSL league, see [ssl.robocup.org](https://ssl.robocup.org)
 
 Note: All team communication is done in English
+
+<div id="success" class="success-notification">
+  Thanks for your application ! We will get back to you as soon as possible
+</div>
 
 <div class="form-container">
   <form action="https://formsubmit.co/contact@delftmercurians.nl" method="POST">
@@ -46,6 +46,7 @@ Note: All team communication is done in English
     <label for="motivation">Motivation</label><br>
     <textarea class="form-textbox" name="motivation" required rows="4"></textarea><br><br>
     <input type="hidden" name="_next" value="https://delftmercurians.nl/join/#success">
+    <input type="hidden" name="_subject" value="Application form response">
     <input type="hidden" name="_captcha" value="false">
     <input type="text" name="_honey" style="display:none">
     <button class="send-button" type="submit">
