@@ -30,6 +30,9 @@ layout: "single"
     <a href="https://tudelftroboticsinstitute.nl" class="sponsorlink-home">
       <img src="/images/sponsors/dri_logo.svg" alt="TUDelft Robotics Institute" class="sponsor-home dri-logo" />
     </a>    
+    <a href="https://nl.rs-online.com/web/" class="sponsorlink-home">
+      <img src="/images/sponsors/rs_logo.jpg" alt="RS Components" class="sponsor-home" />
+    </a>
     <a href="https://en.nanotec.com" class="sponsorlink-home">
       <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
     </a>
@@ -41,9 +44,6 @@ layout: "single"
     </a>
     <a href="https://robohouse.nl" class="sponsorlink-home">
       <img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
-    </a>
-    <a href="https://nl.rs-online.com/web/" class="sponsorlink-home">
-      <img src="/images/sponsors/rs_logo.jpg" alt="RS Components" class="sponsor-home" />
     </a>
 </div>
 
