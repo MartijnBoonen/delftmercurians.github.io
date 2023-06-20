@@ -18,11 +18,11 @@ I'm a first year Robotics Masters student at TU Delft and have been building rob
 
 <br>
 
-## Tim
+## Tim Verburg
 
-<div class="chip management">Management</div> <div class="chip marketing">Marketing</div>
+<div class="chip management">Team manager</div> <div class="chip marketing">Marketing</div>
 
-A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in
+A second year Robotics master student at the TU Delft with a Bachelor's in Mechanical Engineering and a minor in
 Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing
 people along the way.
 
