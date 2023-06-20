@@ -42,6 +42,9 @@ layout: "single"
     <a href="https://robohouse.nl" class="sponsorlink-home">
       <img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
     </a>
+    <a href="https://nl.rs-online.com/web/" class="sponsorlink-home">
+      <img src="/images/sponsors/rs_logo.png" alt="RS Components" class="sponsor-home" />
+    </a>
 </div>
 
 <style>
