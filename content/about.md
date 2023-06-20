@@ -42,7 +42,7 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
-[<img src="/images/sponsors/rs_logo.png" alt="RS Components" class="sponsor-image" />](https://nl.rs-online.com/web/)
+[<img src="/images/sponsors/rs_logo.jpg" alt="RS Components" class="sponsor-image" />](https://nl.rs-online.com/web/)
 
 <br>
 
