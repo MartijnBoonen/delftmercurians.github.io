@@ -24,11 +24,11 @@ Note: All team communication is done in English
 
 <form action="https://formsubmit.co/contact@delftmercurians.nl" method="POST">
   <label for="name">Full Name</label><br>
-  <input type="text" name="name" required><br><br>
+  <input id="name" type="text" name="name" required><br><br>
   <label for="name">Email</label><br>
-  <input type="email" name="email" required><br><br>
+  <input id="email" type="email" name="email" required><br><br>
   <label for="study">Study and year</label><br>
-  <input type="text" name="study" required><br><br>
+  <input id="study" type="text" name="study" required><br><br>
   <label>Position interests</label><br>
   <input type="checkbox" name="mechanical" id="mechanical" value="Mechanical Engineer">
   <label for="mechanical">Mechanical Engineer</label><br>
@@ -43,7 +43,7 @@ Note: All team communication is done in English
   <input type="checkbox" name="other" id="other" value="Other">
   <label for="other">Other</label><br><br>
   <label for="motivation">Motivation</label><br>
-  <textarea name="motivation" required rows="4"></textarea><br><br>
+  <textarea id="motivation" name="motivation" required rows="4"></textarea><br><br>
   <input type="hidden" name="_next" value="https://delftmercurians.nl/join/#success">
   <input type="hidden" name="_subject" value="Application form response">
   <input type="hidden" name="_captcha" value="false">
