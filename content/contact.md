@@ -49,7 +49,7 @@ the team, partnership enquiries, or other matters.
 <form action="https://formsubmit.co/contact@delftmercurians.nl" method="POST">
   <label for="name">Full Name</label><br>
   <input type="text" id="name" name="name" required><br><br>
-  <label for="name">Email</label><br>
+  <label for="email">Email</label><br>
   <input type="email" id="email" name="email" required><br><br>
   <label for="subject">Subject</label><br>
   <input type="text" id="subject" name="subject" required><br><br>
