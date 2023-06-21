@@ -1,37 +1,6 @@
-<div class="callout-card">
-  <p class="callout-text">{{ .Get 0 }}</p>
-  <a class="callout-button" href="{{ .Get 2 }}">
-    <span class="callout-button-text">{{ .Get 1 }}</span>
+<div class="callout">
+  <p>{{ .Get 0 }}</p>
+  <a class="button accent" href="{{ .Get 2 }}">
+    <span>{{ .Get 1 }}</span>
   </a>
 </div>
-
-<style>
-.callout-card {
-  margin-top: 30px;
-  height: 50px;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  border-radius: 10px;
-  background-color: #009cdc;
-}
-.callout-text {
-  margin-bottom: 0 !important;
-  margin-left: 10px;
-  color: black;
-}
-.callout-button {
-   background-image: linear-gradient(70deg, #f7931e, #ed1c24);
-   color: transparent;
-   margin: 5px;
-   padding: 5px 20px;
-   text-align: center;
-   border-radius: 10px;
-}
-.callout-button-text {
-  color: white;
-}
-
-</style>

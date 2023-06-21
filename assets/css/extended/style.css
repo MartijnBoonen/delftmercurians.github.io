@@ -1,0 +1,205 @@
+/* Buttons */
+.button {
+  margin: 5px;
+  padding: 5px 20px;
+  text-align: center;
+  border-radius: 10px;
+  transition: 0.3s;
+  box-shadow: none !important;
+}
+.button.accent {
+  color: transparent;
+  background-image: linear-gradient(70deg, #f7931e 0%, #ed1c24 75%, #ff1e25 100%);
+  background-size: 150%;
+}
+.button.accent:hover {
+  background-size: 100%;
+}
+.button.accent span {
+  color: white;
+}
+.button.home {
+  margin: 5px 10px;
+  padding: 5px 5px;
+}
+
+/* Callouts */
+.callout {
+  margin-top: 30px;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  border-radius: 10px;
+  background-color: #009cdc;
+}
+.callout p {
+  margin-bottom: 0 !important;
+  margin-left: 15px;
+  color: black;
+}
+
+/* Forms */
+form {
+  border: 4px solid #009cdc;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  font-size: 16px;
+  font-size: max(16px, 1em);
+  font-family: inherit;
+  padding: 0.25em 0.5em;
+  background-color: #eee;
+  border-radius: 4px;
+  resize: none;
+  border: none;
+}
+form input[type="text"]:focus,
+form input[type="email"]:focus,
+form textarea:focus {
+  background-color: #ddd;
+}
+body.dark form input[type="text"],
+body.dark form input[type="email"],
+body.dark form textarea {
+  background-color: #444;
+  color: #fff;
+}
+body.dark form input[type="text"]:focus,
+body.dark form input[type="email"]:focus,
+body.dark form textarea:focus {
+  background-color: #555;
+}
+
+form input[type="checkbox"]+label {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+/* Alerts */
+.alert {
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.alert.success {
+  background-color: #009933;
+  color: #fff;
+}
+
+/* Chips */
+.chip {
+  display: inline-block;
+  padding: 0 15px;
+  height: 30px;
+  font-size: 15px;
+  line-height: 30px;
+  border-radius: 15px;
+  margin: 0 5px 15px 0;
+}
+
+.chip.red {
+  background-color: #ff9999;
+}
+body.dark .chip.red {
+  background-color: #580000;
+}
+
+.chip.orange {
+  background-color: #ffab80;
+}
+body.dark .chip.orange {
+  background-color: #6e3000;
+}
+
+.chip.green {
+  background-color: #c2f0c2;
+}
+body.dark .chip.green {
+  background-color: #145214;
+}
+
+.chip.blue {
+  background-color: #b3b3ff;
+}
+body.dark .chip.blue {
+  background-color: #000080;
+}
+
+.chip.cyan {
+  background-color: #b3edff;
+}
+body.dark .chip.cyan {
+  background-color: #006f80;
+}
+
+/* Image stuff */
+.sponsor-image {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  height: 60px;
+}
+
+/* Social icons */
+.icon-link {
+  box-shadow: none !important;
+  display: flex;
+  align-items: center;
+}
+.icon-link img {
+  height: 30px;
+  width: 30px;
+  margin-right: 7px;
+}
+body.dark .icon-link img {
+  filter: invert(100%);
+}
+
+/* Homepage specific */
+.home-logo {
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: calc(min(500px, 45vh));
+}
+body.dark .home-logo {
+  content: url("/images/logo_dark.svg");
+}
+.home-tagline {
+  text-align: center;
+}
+
+.home-sponsors {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 100px;
+}
+.home-sponsors a {
+  color: transparent;
+}
+.home-sponsors a img {
+  height: 50px;
+}
+.home-sponsor-caption {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  top: 100px;
+}
+
+.home-sponsor-caption p {
+  margin: 0px !important;
+  color: #8a8a8a;
+}
+body.dark .home-sponsor-caption p {
+  color: #606060;
+}

@@ -18,103 +18,42 @@ For more information on the RoboCup SSL league, see [ssl.robocup.org](https://ss
 
 Note: All team communication is done in English
 
-<div id="success" class="success-notification">
+<div id="success" class="alert success">
   Thanks for your application ! We will get back to you as soon as possible
 </div>
 
-<div class="form-container">
-  <form action="https://formsubmit.co/contact@delftmercurians.nl" method="POST">
-    <label for="name">Full Name</label><br>
-    <input class="form-textbox" type="text" name="name" required><br><br>
-    <label for="name">Email</label><br>
-    <input class="form-textbox" type="email" name="email" required><br><br>
-    <label for="study">Study and year</label><br>
-    <input class="form-textbox" type="text" name="study" required><br><br>
-    <label>Position interests</label><br>
-    <input class="form-checkbox" type="checkbox" name="mechanical" id="mechanical" value="Mechanical Engineer">
-    <label class="form-checkbox-label" for="mechanical">Mechanical Engineer</label><br>
-    <input class="form-checkbox" type="checkbox" name="embectrical" id="embectrical" value="Embectrical Engineer (embedded/electrical)">
-    <label class="form-checkbox-label" for="embectrical">Embectrical Engineer (embedded/electrical)</label><br>
-    <input class="form-checkbox" type="checkbox" name="public-relations" id="public-relations" value="Public Relations">
-    <label class="form-checkbox-label" for="public-relations">Public Relations</label><br>
-    <input class="form-checkbox" type="checkbox" name="graphical-designer" id="graphical-designer" value="Graphical Designer">
-    <label class="form-checkbox-label" for="graphical-designer">Graphical Designer</label><br>
-    <input class="form-checkbox" type="checkbox" name="it-manager" id="it-manager" value="IT Manager">
-    <label class="form-checkbox-label" for="it-manager">IT Manager</label><br>
-    <input class="form-checkbox" type="checkbox" name="other" id="other" value="Other">
-    <label class="form-checkbox-label" for="other">Other</label><br><br>
-    <label for="motivation">Motivation</label><br>
-    <textarea class="form-textbox" name="motivation" required rows="4"></textarea><br><br>
-    <input type="hidden" name="_next" value="https://delftmercurians.nl/join/#success">
-    <input type="hidden" name="_subject" value="Application form response">
-    <input type="hidden" name="_captcha" value="false">
-    <input type="text" name="_honey" style="display:none">
-    <button class="send-button" type="submit">
-      <span class="send-button-text">Send</span>
-    </button>
-  </form>
-</div>
+<form action="https://formsubmit.co/contact@delftmercurians.nl" method="POST">
+  <label for="name">Full Name</label><br>
+  <input type="text" name="name" required><br><br>
+  <label for="name">Email</label><br>
+  <input type="email" name="email" required><br><br>
+  <label for="study">Study and year</label><br>
+  <input type="text" name="study" required><br><br>
+  <label>Position interests</label><br>
+  <input type="checkbox" name="mechanical" id="mechanical" value="Mechanical Engineer">
+  <label for="mechanical">Mechanical Engineer</label><br>
+  <input type="checkbox" name="embectrical" id="embectrical" value="Embectrical Engineer (embedded/electrical)">
+  <label for="embectrical">Embectrical Engineer (embedded/electrical)</label><br>
+  <input type="checkbox" name="public-relations" id="public-relations" value="Public Relations">
+  <label for="public-relations">Public Relations</label><br>
+  <input type="checkbox" name="graphical-designer" id="graphical-designer" value="Graphical Designer">
+  <label for="graphical-designer">Graphical Designer</label><br>
+  <input type="checkbox" name="it-manager" id="it-manager" value="IT Manager">
+  <label for="it-manager">IT Manager</label><br>
+  <input type="checkbox" name="other" id="other" value="Other">
+  <label for="other">Other</label><br><br>
+  <label for="motivation">Motivation</label><br>
+  <textarea name="motivation" required rows="4"></textarea><br><br>
+  <input type="hidden" name="_next" value="https://delftmercurians.nl/join/#success">
+  <input type="hidden" name="_subject" value="Application form response">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="text" name="_honey" style="display:none">
+  <button class="button accent" type="submit">
+    <span>Send</span>
+  </button>
+</form>
 
 <style>
-.post-footer {
-  display: none;
-}
-
-.form-container {
-  border: 4px solid #009cdc;
-  border-radius: 20px;
-  padding: 20px;
-}
-
-.form-textbox {
-  width: 100%;
-  font-size: 16px;
-  font-size: max(16px, 1em);
-  font-family: inherit;
-  padding: 0.25em 0.5em;
-  background-color: #eee;
-  border-radius: 4px;
-  resize: none;
-  border: none;
-}
-.form-textbox:focus {
-  background-color: #ddd;
-}
-body.dark .form-textbox {
-  background-color: #444;
-  color: #fff;
-}
-body.dark .form-textbox:focus {
-  background-color: #555;
-}
-
-.form-checkbox-label {
-  font-size: 18px;
-  font-weight: 300;
-}
-.form-checkbox {
-
-}
-
-.send-button {
-   background-image: linear-gradient(70deg, #f7931e, #ed1c24);
-   color: transparent;
-   margin: 5px;
-   padding: 5px 20px;
-   text-align: center;
-   border-radius: 10px;
-}
-.send-button-text {
-  color: white;
-}
-
-.success-notification {
-  background-color: #009933;
-  color: #fff;
-  border-radius: 20px;
-  padding: 20px;
-  margin-bottom: 20px;
-}
 #success {
   display: none;
 }

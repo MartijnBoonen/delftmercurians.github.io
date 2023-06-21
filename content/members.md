@@ -12,17 +12,15 @@ keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 
 ## Thomas Hettasch
 
-<div class="chip management">Technical manager</div> <div class="chip embectrical">Embectrical</div>
-
+{{< chip red "Technical manager" >}} {{< chip cyan "Embectrical" >}}<br>
 I'm a first year Robotics Masters student at TU Delft and have been building robots for over a decade now. I enjoy learning new technical skills, as well as pushing myself to develop my leadership abilities. Ultimately, my aim is to inspire and encourage the next generation of engineers to think outside the box and pursue innovation.
 
 <br>
 
 ## Tim Verburg
 
-<div class="chip management">Team manager</div> <div class="chip marketing">Marketing</div>
-
-A second year Robotics master student at the TU Delft with a Bachelor's in Mechanical Engineering and a minor in
+{{< chip red "Team manager" >}} {{< chip orange "Marketing" >}}<br>
+A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in
 Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing
 people along the way.
 
@@ -30,8 +28,7 @@ people along the way.
 
 ## Zhengyang (Steven)
 
-<div class="chip software">Software</div> <div class="chip marketing">Marketing</div>
-
+{{< chip green "Software" >}} {{< chip orange "Marketing" >}}<br>
 A first year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare
 time and it's a great experience so far. Having some interest in marketing I'd like to develop our brand to something
 fun and memorable.
@@ -40,16 +37,14 @@ fun and memorable.
 
 ## Balint
 
-<div class="chip software">Software (Lead)</div>
-
+{{< chip green "Software (Lead)" >}}<br>
 Ex-computer science student from Hungary with 3 years of professional software engineering experience. I joined the team to look for new challanges, meet cool people and have fun, while also working to innovate for a better world.
 
 <br>
 
 ## Renyi
 
-<div class="chip software">Software</div>
-
+{{< chip green "Software" >}}<br>
 student at TU Delft, studying Computer Science| ᐕ)⁾⁾  
 I hope my code could make some sense.（┬＿┬）
 
@@ -57,8 +52,7 @@ I hope my code could make some sense.（┬＿┬）
 
 ## Thijs
 
-<div class="chip hardware">Mechanical</div>
-
+{{< chip blue "Hardware" >}}<br>
 I'm a first year computer science student who is always open for a new challenge. My goal is to learn a lot
 and contribute to a fierce team of 6 robots that is to be reckoned with.
 
@@ -66,8 +60,7 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 ## Alexander
 
-<div class="chip hardware">Mechanical</div>
-
+{{< chip blue "Hardware" >}}<br>
 I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I
 gained from participating in the First Tech Challenge as a high-school student.
 
@@ -75,74 +68,21 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 ## Roma
 
-<div class="chip software">Software</div>
-
+{{< chip green "Software" >}}<br>
 Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.
 
 <br>
 
 ## Kevin
 
-<div class="chip hardware">Hardware</div>
-
+{{< chip blue "Hardware" >}}<br>
 Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!
-
-
-
 
 <br>
 
 ## Vladimir
 
-<div class="chip software">Software</div>
-
--
+{{< chip green "Software" >}}<br>
+.
 
 <br>
-
-<style>
-.chip {
-  display: inline-block;
-  padding: 0 15px;
-  height: 30px;
-  font-size: 15px;
-  line-height: 30px;
-  border-radius: 15px;
-  margin: 0 5px 15px 0;
-}
-
-.management {
-  background-color: #ff9999;
-}
-.dark .management {
-  background-color: #580000;
-}
-
-.marketing {
-  background-color: #ffab80;
-}
-.dark .marketing {
-  background-color: #6e3000;
-}
-
-.software {
-  background-color: #c2f0c2;
-}
-.dark .software {
-  background-color: #145214;
-}
-
-.hardware {
-  background-color: #b3b3ff;
-}
-.dark .hardware {
-  background-color: #000080;
-}
-
-.embectrical {
-  background-color: #b3edff;
-}
-.dark .embectrical {
-  background-color: #006f80;
-}
-</style>

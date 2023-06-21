@@ -6,15 +6,15 @@ ShowRssButtonInSectionTermList: false
 layout: "single"
 ---
 
-<img src="/images/logo.svg" class="logo-home" alt="Delft Mercurians Logo" />
-<p class="summary-home">We are a RoboCup team based in Delft, founded in 2022</p>
+<img src="/images/logo.svg" class="home-logo" alt="Delft Mercurians Logo" />
+<p class="home-tagline">We are a RoboCup team based in Delft, founded in 2022</p>
 <div class="buttons">
-  <a class="button" href="about/" rel="noopener" title="About">
+  <a class="button home" href="about/" rel="noopener" title="About">
     <span class="button-inner">
       About
     </span>
   </a>
-  <a class="button" href="contact/" rel="noopener" title="Contact">
+  <a class="button home" href="contact/" rel="noopener" title="Contact">
     <span class="button-inner">
       Contact
     </span>
@@ -23,79 +23,33 @@ layout: "single"
 
 
 <div class="pagespacer-home"></div>
-<div class="sponsor-caption">
-  <p class="sponsor-caption-text">Sponsors and partners</p>
+<div class="home-sponsor-caption">
+  <p>Sponsors and partners</p>
 </div>
-<div class="sponsorcontainer-home">
-    <a href="https://tudelftroboticsinstitute.nl" class="sponsorlink-home">
-      <img src="/images/sponsors/dri_logo.svg" alt="TUDelft Robotics Institute" class="sponsor-home dri-logo" />
+<div class="home-sponsors">
+    <a href="https://tudelftroboticsinstitute.nl">
+      <img src="/images/sponsors/dri_logo.svg" alt="TUDelft Robotics Institute" class="dri-logo" />
     </a>    
-    <a href="https://nl.rs-online.com/web/" class="sponsorlink-home">
-      <img src="/images/sponsors/rs_logo.jpg" alt="RS Components" class="sponsor-home" />
+    <a href="https://nl.rs-online.com/web/">
+      <img src="/images/sponsors/rs_logo.jpg" alt="RS Components" />
     </a>
-    <a href="https://en.nanotec.com" class="sponsorlink-home">
-      <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" class="sponsor-home" />
+    <a href="https://en.nanotec.com">
+      <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" />
     </a>
-    <a href="https://www.st.com/" class="sponsorlink-home">
-      <img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="sponsor-home st-logo" />
+    <a href="https://www.st.com/">
+      <img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="st-logo" />
     </a>
-    <a href="https://rsadelft.nl" class="sponsorlink-home">
-      <img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" class="sponsor-home" />
+    <a href="https://rsadelft.nl">
+      <img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" />
     </a>
-    <a href="https://robohouse.nl" class="sponsorlink-home">
-      <img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" class="sponsor-home" />
+    <a href="https://robohouse.nl">
+      <img src="/images/sponsors/robohouse_logo.png" alt="Robohouse" />
     </a>
 </div>
 
 <style>
-.logo-home {
-  display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  width: calc(min(500px, 45vh));
-}
-body.dark .logo-home {
-  content: url("/images/logo_dark.svg");
-}
-.title-home {
-  text-align: center;
-  font-size: 28px !important;
-}
-.summary-home {
-  text-align: center;
-}
-
-.button {
-  box-shadow: none !important;
-}
-
-.sponsorcontainer-home {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  column-gap: 100px;
-}
-.sponsor-home {
-  height: 50px;
-}
-.sponsor-caption {
-  margin-top: 40px;
-  display: flex;
-  justify-content: center;
-  top: 100px;
-}
-.sponsor-caption-text {
-  margin: 0px !important;
-  color: #8a8a8a;
-}
-body.dark .sponsor-caption-text {
-  color: #606060;
-}
-.sponsorlink-home {
-  color: transparent;
-}
 .pagespacer-home {
-  height: calc(100vh - 900px);
+  height: calc(100vh - 920px);
 }
 
 .post-footer {

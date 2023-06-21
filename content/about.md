@@ -100,13 +100,6 @@ other in 10-minute matches.
 ![Photo of a Robocup SSL match](/images/illustrations/robocup_match.jpg)
 
 <style>
-.sponsor-image {
-  display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  height: 60px;
-}
-
 body.dark .dri-logo {
   content: url("/images/sponsors/dri_logo_dark.svg");
 }
