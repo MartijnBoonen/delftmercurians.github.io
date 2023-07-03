@@ -86,3 +86,10 @@ Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm lo
 .
 
 <br>
+
+## Luis
+
+{{< chip cyan "Embectrical" >}}
+.
+
+<br>
