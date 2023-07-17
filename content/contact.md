@@ -31,7 +31,7 @@ the team, partnership enquiries, or other matters.
   delftmercurians
 </a>
 
-<a href="geo:52.00850,4.37131" class="icon-link">
+<a href="https://goo.gl/maps/rXvpHLvNAjrF6vFE7" class="icon-link" target="_blank">
   <img src="/images/social/map_icon.svg" alt="Address">
   RSA, Julianalaan 67, 2628BC Delft, The Netherlands
 </a>
