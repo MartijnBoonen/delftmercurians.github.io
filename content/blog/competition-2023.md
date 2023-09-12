@@ -58,8 +58,8 @@ Overall, this trip was really an amazing experience! Not only did we get rushes 
 
 Don’t hesitate to follow us on social media!
 
-Instagram: `@delftmercurians` [link to https://instagram.com/delftmercurians]
+Instagram: [@delftmercurians](https://instagram.com/delftmercurians)
 
-Linkedin: `company/delft-mercurians` [link to https://linkedin.com/company/delft-mercurians]
+Linkedin: [company/delft-mercurians](https://linkedin.com/company/delft-mercurians)
 
-We are also still actively recruiting new members. You can fill in the form on [delftmercurians.nl/join](http://delftmercurians.com/join) if you are interested!
+We are also still actively recruiting new members. You can fill in the form on [delftmercurians.nl/join](https://delftmercurians.nl/join) if you are interested!
