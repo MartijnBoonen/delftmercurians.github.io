@@ -140,12 +140,25 @@ body.dark .chip.cyan {
   background-color: #006f80;
 }
 
+.chip.grey {
+  background-color: #cccccc;
+}
+body.dark .chip.grey {
+  background-color: #404040;
+}
+
 /* Image stuff */
 .sponsor-image {
   display: block;
   margin-left: auto !important;
   margin-right: auto !important;
   height: 60px;
+}
+
+.flag {
+  height: 20px;
+  display: inline;
+  vertical-align: middle;
 }
 
 /* Social icons */
