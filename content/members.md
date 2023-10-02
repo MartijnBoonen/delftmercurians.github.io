@@ -10,17 +10,17 @@ keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 
 {{< join-callout >}}
 
-## Thomas Hettasch {{< flag za "South Africa" >}}
+## Thomas Hettasch {{< flag za "South Africa" >}} {{< flag de "Germany" >}}
 
 {{< chip red "Technical manager" >}} {{< chip cyan "Embectrical" >}}<br>
-I'm a first year Robotics Masters student at TU Delft and have been building robots for over a decade now. I enjoy learning new technical skills, as well as pushing myself to develop my leadership abilities. Ultimately, my aim is to inspire and encourage the next generation of engineers to think outside the box and pursue innovation.
+I'm a second year Robotics Masters student at TU Delft and have been building robots for over a decade now. I enjoy learning new technical skills, as well as pushing myself to develop my leadership abilities. Ultimately, my aim is to inspire and encourage the next generation of engineers to think outside the box and pursue innovation.
 
 <br>
 
 ## Zhengyang (Steven) {{< flag cn "China" >}}
 
 {{< chip red "Team manager" >}} {{< chip orange "Marketing" >}} {{< chip green "Software" >}}<br>
-A first year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare
+A second year Robotics master student at TU Delft. I joined the team to do something meaningful and fun in my spare
 time and it's a great experience so far. Having some interest in marketing I'd like to develop our brand to something
 fun and memorable.
 
