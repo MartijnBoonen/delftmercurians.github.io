@@ -129,9 +129,9 @@ Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm lo
 
 <br>
 
-## Misha
+## Misha {{< flag il "Israel" >}}
 
 {{< chip green "Software - AI" >}}<br>
-.
+I'm a first year masters student in AI, I have quite some experience with machine learning and reinforcement learning in particular, and I am exited to apply my ML skills in the scope of this competition.
 
 <br>
