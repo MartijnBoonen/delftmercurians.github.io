@@ -58,7 +58,7 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 
 <br>
 
-## Alexander {{< flag fr "France" >}} {{< flag nl "Netherlands" >}}
+## Alexander {{< flag fr "France" >}} {{< flag gb-sct "Scotland" >}} {{< flag nl "Netherlands" >}}
 
 {{< chip blue "Hardware" >}} {{< chip cyan "Embectrical" >}}<br>
 I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I
