@@ -66,7 +66,7 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 <br>
 
-## Roma {{< flag il "Israel" >}}
+## Roma {{< flag ea "Earth" >}}
 
 {{< chip green "Software - AI" >}}<br>
 Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.
