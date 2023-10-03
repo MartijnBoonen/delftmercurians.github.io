@@ -122,10 +122,10 @@ Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm lo
 
 <br>
 
-## Ivan {{< flag es "Spain" >}}
+## Iván López Broceño {{< flag es "Spain" >}}
 
 {{< chip green "Software - AI" >}}<br>
-.
+I am a first year MSc Robotics student at TU Delft driven by curiosity. My goal is to create new robotic solutions that will shape the future we will live in for the better. In order to do that, I am focusing my career on the software of the robots and its AI. Joining the team allows me to face new challenges aimed to win the competition at the same time that I can meet and work with passionate people. Personally, I am the kind of person that say yes to every crazy plan, so count me in!
 
 <br>
 
