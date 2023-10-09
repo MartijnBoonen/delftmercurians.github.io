@@ -42,9 +42,9 @@ Ex-computer science student from Hungary with 3 years of professional software e
 
 <br>
 
-## Renyi
+## Renyi {{< flag cn "China" >}}
 
-{{<chip grey "On Hold" >}} {{< chip green "Software - Infra" >}}<br>
+{{< chip green "Software - Infra" >}}<br>
 student at TU Delft, studying Computer Science| ᐕ)⁾⁾  
 I hope my code could make some sense.（┬＿┬）
 
