@@ -73,7 +73,7 @@ Trying hard to get into research, but failing miserably for now. Had 8 years of 
 
 <br>
 
-## Kevin {{< flag hk "Hong Kong" >}}
+## Kevin {{< flag hk "Hong Kong" >}} {{< flag fr "France" >}}
 
 {{< chip blue "Hardware" >}}<br>
 Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!
