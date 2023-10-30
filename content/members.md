@@ -28,8 +28,8 @@ fun and memorable.
 
 ## Tim Verburg {{< flag nl "Netherlands" >}}
 
-{{<chip grey "On Hold" >}} {{< chip red "Management" >}} {{< chip orange "Marketing" >}}<br>
-A second year Robotics master student at the TU Delft with a Bachelor in Mechanical Engineering and minor in
+{{< chip red "Management" >}} {{< chip orange "Marketing" >}} {{< chip blue "Hardware" >}}<br>
+A TU Delft Robotics master graduate with a Bachelor's in Mechanical Engineering and a minor in
 Robotics. I would like to improve the world for everyone through innovation and robotics and meet some amazing
 people along the way.
 
