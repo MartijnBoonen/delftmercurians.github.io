@@ -12,7 +12,7 @@ keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 
 ## Thomas Hettasch {{< flag za "South Africa" >}} {{< flag de "Germany" >}}
 
-{{< chip red "Technical manager" >}} {{< chip cyan "Embectrical" >}}<br>
+{{< chip red "Technical manager" >}} {{< chip cyan "Embectrical Lead" >}}<br>
 I'm a second year Robotics Masters student at TU Delft and have been building robots for over a decade now. I enjoy learning new technical skills, as well as pushing myself to develop my leadership abilities. Ultimately, my aim is to inspire and encourage the next generation of engineers to think outside the box and pursue innovation.
 
 <br>
@@ -42,6 +42,20 @@ Ex-computer science student from Hungary with 3 years of professional software e
 
 <br>
 
+## Roma {{< flag ea "Earth" >}}
+
+{{< chip yellow "Magic Lead" >}}<br>
+Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.
+
+<br>
+
+## Kevin {{< flag hk "Hong Kong" >}} {{< flag fr "France" >}}
+
+{{< chip blue "Hardware Lead" >}}<br>
+Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!
+
+<br>
+
 ## Renyi {{< flag cn "China" >}}
 
 {{< chip green "Software" >}}<br>
@@ -63,20 +77,6 @@ and contribute to a fierce team of 6 robots that is to be reckoned with.
 {{< chip blue "Hardware" >}} {{< chip cyan "Embectrical" >}}<br>
 I've come from France to study Computer Science in Delft, joining the team because of the interest in Robotics I
 gained from participating in the First Tech Challenge as a high-school student.
-
-<br>
-
-## Roma {{< flag ea "Earth" >}}
-
-{{< chip yellow "Magic" >}}<br>
-Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.
-
-<br>
-
-## Kevin {{< flag hk "Hong Kong" >}} {{< flag fr "France" >}}
-
-{{< chip blue "Hardware" >}}<br>
-Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm looking to learn more about robotics whilst putting my knowledge to use. I joined the team to challenge myself whilst having fun and I look forward to the progress the team has to make!
 
 <br>
 
