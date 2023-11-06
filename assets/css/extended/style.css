@@ -126,6 +126,13 @@ body.dark .chip.green {
   background-color: #145214;
 }
 
+.chip.yellow {
+  background-color: #fff9a7;
+}
+body.dark .chip.yellow {
+  background-color: #706500;
+}
+
 .chip.blue {
   background-color: #b3b3ff;
 }

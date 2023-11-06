@@ -11,7 +11,7 @@ keywords: ["Delft Mercurians", "RoboCup", "about", "robotics", "football"]
 ## About our team
 
 The Delft Mercurians team was formed in September 2022, as a project from the Robotics Student Association in Delft.
-We currently have [16 members](/members), meeting regularly and working on all aspects of the project, including
+We currently have [21 members](/members), meeting regularly and working on all aspects of the project, including
 management, software, hardware and electronics. We are a multicultural and multidisciplinary team, with many
 Dutch and international students in Robotics, Computer Science, Nano-biology, and more.
 

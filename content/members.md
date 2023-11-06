@@ -4,7 +4,7 @@ ShowToc: false
 ShowBreadcrumbs: false
 hideMeta: true
 ShowRssButtonInSectionTermList: false
-summary: "We currently have 16 members in our team!"
+summary: "We currently have 21 members in our team!"
 keywords: ["Delft Mercurians", "RoboCup", "members", "students"]
 ---
 
@@ -44,7 +44,7 @@ Ex-computer science student from Hungary with 3 years of professional software e
 
 ## Renyi {{< flag cn "China" >}}
 
-{{< chip green "Software - Infra" >}}<br>
+{{< chip green "Software" >}}<br>
 student at TU Delft, studying Computer Science| ᐕ)⁾⁾  
 I hope my code could make some sense.（┬＿┬）
 
@@ -68,7 +68,7 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 ## Roma {{< flag ea "Earth" >}}
 
-{{< chip green "Software - AI" >}}<br>
+{{< chip yellow "Magic" >}}<br>
 Trying hard to get into research, but failing miserably for now. Had 8 years of robotics experience, but prefer to work on high-level software. I aim to win RoboCup, but taking the last place is also fine.
 
 <br>
@@ -81,6 +81,20 @@ Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm lo
 <br>
 
 ## Nianlei {{< flag cn "China" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+.
+
+<br>
+
+## Leila {{<flag ir "Iran" >}}
+
+{{< chip cyan "Embectrical" >}}<br>
+.
+
+<br>
+
+## George {{<flag gr "Greece" >}}
 
 {{< chip cyan "Embectrical" >}}<br>
 .
@@ -103,35 +117,49 @@ Currently studying Aerospace Engineering at TU Delft, and in my downtime, I'm lo
 
 ## Guillem {{< flag es "Spain" >}}
 
-{{< chip green "Software - Infra" >}}<br>
+{{< chip green "Software" >}}<br>
 .
 
 <br>
 
 ## Teodor {{< flag be "Belgium" >}}
 
-{{< chip green "Software - Infra" >}}<br>
+{{< chip green "Software" >}}<br>
 .
 
 <br>
 
 ## Yohan {{< flag fr "France" >}}
 
-{{< chip green "Software - Infra" >}}<br>
+{{< chip green "Software" >}}<br>
+.
+
+<br>
+
+## Yohan {{< flag ro "Romania" >}}
+
+{{< chip green "Matei" >}}<br>
 .
 
 <br>
 
 ## Iván López Broceño {{< flag es "Spain" >}}
 
-{{< chip green "Software - AI" >}}<br>
+{{< chip yellow "Magic" >}}<br>
 I am a first year MSc Robotics student at TU Delft driven by curiosity. My goal is to create new robotic solutions that will shape the future we will live in for the better. In order to do that, I am focusing my career on the software of the robots and its AI. Joining the team allows me to face new challenges aimed to win the competition at the same time that I can meet and work with passionate people. Personally, I am the kind of person that say yes to every crazy plan, so count me in!
 
 <br>
 
 ## Misha {{< flag il "Israel" >}}
 
-{{< chip green "Software - AI" >}}<br>
+{{< chip yellow "Magic" >}}<br>
 I'm a first year masters student in AI, I have quite some experience with machine learning and reinforcement learning in particular, and I am exited to apply my ML skills in the scope of this competition.
+
+<br>
+
+## Akansha
+
+{{< chip yellow "Magic" >}}<br>
+.
 
 <br>
