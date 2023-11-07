@@ -9,7 +9,11 @@ A week ago we attended our first educational event, Science day! The area around
 
 The four of us, Thomas Hettasch, Roman Knyazhitskiy, Leila Hashemi and myself attended the event and gave a presentation about our team and RoboCup Federation in general, and we let visitors drive our robot themselves to try to push the ball into the goal. It was extremely successful as our booth was always crowded with excited visitors either waiting to drive the robot themselves or intrigued by RoboCup. We also had a lot of fun ourselves, as we got to talk to a lot of people and see their excitement about our robots!
 
-![Picture of me presenting](images/illustrations/science-day-2023/scienceday-1.jpg)
+We also made sure the visitors were informed about Robocupjunior NK junior, so if they are excited to build robots they can already start! And hopefully in a few years time also join our team, and keep the Mercurian spirits alive!
+
+Below are some pictures of us during the event:
+
+![Picture of me presenting](/images/illustrations/science-day-2023/scienceday-5.jpg)
 
 ![Picture of Thomas presenting](/images/illustrations/science-day-2023/scienceday-4.jpg)
 
@@ -17,8 +21,6 @@ The four of us, Thomas Hettasch, Roman Knyazhitskiy, Leila Hashemi and myself at
 
 ![Picture of Roman presenting](/images/illustrations/science-day-2023/scienceday-2.jpg)
 
-<video src="/videos/Science_day_2023.mp4" controls="true" autoplay="true" loop="true" muted="true" height="500px"></video>
-
-We also made sure the visitors were informed about Robocupjunior NK junior, so if they are excited to build robots they can already start! And hopefully in a few years time also join our team, and keep the Mercurian spirits alive!
+<video src="/videos/Science_day_2023.mp4" controls="true" autoplay="true" loop="true" muted="true" height="1000px"></video>
 
 Many thanks Delft University of Technology and KITE educatie for organizing this fun event! We would love to do more in the future!
