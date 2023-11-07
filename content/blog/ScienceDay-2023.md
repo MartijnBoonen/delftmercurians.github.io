@@ -21,6 +21,6 @@ Below are some pictures of us during the event:
 
 ![Picture of Roman presenting](/images/illustrations/science-day-2023/scienceday-2.jpg)
 
-<video src="/videos/Science_day_2023.mp4" controls="true" autoplay="true" loop="true" muted="true" height="1000px"></video>
+<video src="/videos/Science_day_2023.mp4" controls="true" autoplay="true" loop="true" muted="true" height="900px"></video>
 
 Many thanks Delft University of Technology and KITE educatie for organizing this fun event! We would love to do more in the future!
