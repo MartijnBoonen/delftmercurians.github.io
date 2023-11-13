@@ -104,7 +104,8 @@ Like to explore new things; Part-time badminton player and climber;
 ## Martijn {{< flag be "Belgium" >}}
 
 {{< chip blue "Hardware" >}}<br>
-.
+Hi there, I am a second year Mechanical Engineering student that is curious and wants to learn new things. That is why I joined the team!
+I happily accepted the challange so I am ready to face the competition!
 
 <br>
 
