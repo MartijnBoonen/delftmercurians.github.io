@@ -36,8 +36,14 @@ layout: "single"
     <a href="https://en.nanotec.com">
       <img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" />
     </a>
+    <a href="https://www.get-cameras.com/">
+      <img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="getcameras-logo" />
+    </a>
     <a href="https://www.st.com/">
       <img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="st-logo" />
+    </a>
+    <a href="https://nl.farnell.com/">
+      <img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="farnell-logo" />
     </a>
     <a href="https://rsadelft.nl">
       <img src="/images/sponsors/rsa_logo.svg" alt="Robotics Student Association" />
@@ -49,7 +55,7 @@ layout: "single"
 
 <style>
 .pagespacer-home {
-  height: calc(100vh - 920px);
+  height: calc(100vh - 1000px);
 }
 
 .post-footer {
@@ -61,6 +67,12 @@ body.dark .dri-logo {
 }
 body.dark .st-logo {
   content: url("/images/sponsors/st_logo_dark.png");
+}
+body.dark .getcameras-logo {
+  content: url("/images/sponsors/getcameras_logo_dark.png");
+}
+body.dark .farnell-logo {
+  content: url("/images/sponsors/farnell_logo_dark.png");
 }
 
 body {

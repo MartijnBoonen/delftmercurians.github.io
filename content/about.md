@@ -40,13 +40,21 @@ After decades of competition, all the robots in the RoboCup Small Size League ha
 
 <br>
 
-#### kHz
-
 [<img src="/images/sponsors/nanotec_logo.svg" alt="Nanotec" class="sponsor-image" />](https://en.nanotec.com)
 
 <br>
 
+[<img src="/images/sponsors/getcameras_logo.png" alt="Get Cameras" class="sponsor-image getcameras-logo" />](https://www.get-cameras.com)
+
+<br>
+
+#### kHz
+
 [<img src="/images/sponsors/st_logo.png" alt="ST Microelectronics" class="sponsor-image st-logo" />](https://www.st.com)
+
+<br>
+
+[<img src="/images/sponsors/farnell_logo.png" alt="Farnell" class="sponsor-image farnell-logo" />](https://nl.farnell.com)
 
 <br>
 
@@ -105,5 +113,11 @@ body.dark .dri-logo {
 }
 body.dark .st-logo {
   content: url("/images/sponsors/st_logo_dark.png");
+}
+body.dark .getcameras-logo {
+  content: url("/images/sponsors/getcameras_logo_dark.png");
+}
+body.dark .farnell-logo {
+  content: url("/images/sponsors/farnell_logo_dark.png");
 }
 </style>
