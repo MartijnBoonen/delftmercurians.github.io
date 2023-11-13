@@ -83,7 +83,7 @@ gained from participating in the First Tech Challenge as a high-school student.
 ## Nianlei {{< flag cn "China" >}}
 
 {{< chip cyan "Embectrical" >}}<br>
-.
+Like to explore new things; Part-time badminton player and climber;
 
 <br>
 
@@ -115,6 +115,13 @@ gained from participating in the First Tech Challenge as a high-school student.
 
 <br>
 
+## Kian {{< flag ir "Iran" >}}
+
+{{<chip blue "Hardware" >}}<br>
+Currently a Third-year Aerospace engineering student pursuing a minor in Engineering with Artificial Intelligence. Thrilled to be part of the Delft Mercurians football team, where I get to contribute my skills towards the team’s mission of breaking into the Robocup competition for the first time in 2024.
+
+<br>
+
 ## Guillem {{< flag es "Spain" >}}
 
 {{< chip green "Software" >}}<br>
@@ -132,7 +139,7 @@ gained from participating in the First Tech Challenge as a high-school student.
 ## Yohan {{< flag fr "France" >}}
 
 {{< chip green "Software" >}}<br>
-.
+I am Linus the Linelander. Grinding hard to become Felix the Flatlander
 
 <br>
 
